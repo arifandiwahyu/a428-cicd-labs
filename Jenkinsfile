@@ -8,3 +8,5 @@ node{
         }
     }
 }
+
+//reference scripted pipeline : https://stackoverflow.com/questions/63537298/agent-equivalent-command-in-jenkins-scripted-pipeline-to-use-docker-container
